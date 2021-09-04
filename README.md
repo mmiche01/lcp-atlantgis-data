@@ -1,6 +1,8 @@
 # lcp-atlantgis-data
 Least Cost Path Analysis AtlantGIS
 
+Datensätze der fiktiven Insel AtlantGIS zur Durchführung einer Least Cost Path Analyse.
+
 Das Datenarchiv ist in drei Teile gegliedert:
 * 01_source-data enthält alle Quelldaten und deren Visualisierungen (=Karten).
     * 02_vector enthält eine GeoPackage-Datei mit Vektordaten (Flüsse, Küstenlinie, Landschaftsform, Start-/Endpunkt, Festungen etc.)
